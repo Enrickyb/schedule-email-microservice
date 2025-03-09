@@ -34,7 +34,6 @@ spring.mail.properties.mail.smtp.auth=true
 spring.mail.properties.mail.smtp.starttls.enable=true
 ```
 
-> **⚠️ Importante:** Evite expor credenciais no código-fonte. Utilize variáveis de ambiente ou serviços de gerenciamento de configurações.
 
 ## ▶️ Como Rodar o Projeto
 
